@@ -4,7 +4,7 @@ This repository contains my ECON 280 extension analysis based on Hazell, Herreñ
 
 The goal of this extension is to test how the estimated Phillips Curve slope (β) changes when different measures of inflation are used in place of the original core CPI (CPI-RS core) measure.
 
-note: writeup and paragraph are listed as writeup.pdf
+note: project description and paragraph are listed as writeup.md
 
 ---
 
@@ -93,4 +93,5 @@ Running `Econ280_extension.R` produces:
 Hazell, Jonathon, Juan Herreño, Emi Nakamura, and Jón Steinsson. 2022.
 “The Slope of the Phillips Curve: Evidence from U.S. States.”
 Quarterly Journal of Economics 137(3): 1299–1344.
+
 
