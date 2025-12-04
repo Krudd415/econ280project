@@ -75,7 +75,7 @@ This script:
 Running `Econ280_extension.R` produces:
 
 ### **Figures**
-- `output/Rplot_Econ280.png`  
+- `output/figures/Rplot_Econ280.png`  
   A bar chart comparing Phillips Curve slopes across inflation measures.
 
 ---
@@ -93,5 +93,6 @@ Running `Econ280_extension.R` produces:
 Hazell, Jonathon, Juan Herreño, Emi Nakamura, and Jón Steinsson. 2022.
 “The Slope of the Phillips Curve: Evidence from U.S. States.”
 Quarterly Journal of Economics 137(3): 1299–1344.
+
 
 
