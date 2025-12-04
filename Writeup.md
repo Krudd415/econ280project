@@ -1,0 +1,8 @@
+For my extension, I examine how the estimated aggregate Phillips Curve slope differs depending on the specific measure of inflation used. In the paper’s main result, core CPI (CPI-RS core) minus long-term expectations is used to estimate a very flat aggregate Phillips Curve. To test robustness, I repeat the same regression using four inflation measures available in the replication data: headline CPI(CPI\_all), CPI excluding food and energy(CPI\_lessFE), PCE core inflation(PCE\_core), and CPI-RS core inflation(CPI\_RS\_core).
+
+- Headline CPI(CPI\_all): The slope for headline CPI is the most negative, indicating that when using highly volatile all-items inflation, unemployment appears to have a stronger, negative relationship with inflation  
+- CPI excluding food and energy(CPI\_lessFE): The slope for CPI excluding food and energy is moderately negative, showing a weak Phillips Curve relationship that is smaller in magnitude once volatile components are removed.  
+- PCE core inflation(PCE\_core): The slope for PCE core inflation is very close to zero, suggesting essentially no relationship between inflation and unemployment.  
+- CPI-RS core inflation(CPI\_RS\_core): The slope for CPI-RS core inflation is also indistinguishable from zero, reinforcing the original paper’s conclusion that the Phillips Curve is extremely flat using their baseline inflation measure.
+
+Across all four specifications, the estimated slope remains small and close to zero, showing that the flat Phillips Curve result is not driven by the particular inflation series chosen. This robustness check supports the paper’s conclusion that inflation responds only weakly to labor-market slack.
